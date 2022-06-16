@@ -9,4 +9,4 @@ The map has the following features:
 - Popups for each earthquake showing magnitude and location.
 - Lines showing tectonic plate edges.
 
-![image](resources/mapping_earthquakes_screenshot.PNG)
+![image](Resources/mapping_earthquakes_screenshot.PNG)
